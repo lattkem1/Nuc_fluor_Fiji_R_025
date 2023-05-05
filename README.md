@@ -1,4 +1,4 @@
-# Nuc_fluor_Fiji_R_01
+# Nuc_fluor_Fiji_R_025
 Simple nuclear fluorescence intensity image analysis pipeline in Fiji and R
 
 Fiji/R nuclear fluorescence intensity analysis pipeline (v02.5, 5/5/23)
